@@ -23,3 +23,9 @@ ln -s ~/foo/bar/norse.nvim/vim/entry.lua ~/.config/nvim/init.lua
 ```
 
 2. Change the hard-coded path in `entry.lua` line 20 to `~/foo/bar/norse.nvim`
+
+3. Execute `:Lazy` and `:MasonInstall` to install the necessary plugins and binaries
+
+## Observations
+
+This is not a friendly configuration for beginners, it is meant for people who are already familiar with neovim and want to take it to the next level. That being said, I will gladly help anyone who wants to learn more about it. Just open an issue and I will get back to you as soon as possible.
