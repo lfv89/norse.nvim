@@ -17,9 +17,9 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 local config_path = vim.fn.stdpath("config")
-local dotfiles_path = config_path .. "/../../Documents/Development/Dotfiles"
+local nvim_config_path = "/Users/lfv89/Documents/Development/Dotfiles"
 
-package.path = package.path .. ";" .. dotfiles_path .. "/?.lua"
+package.path = package.path .. ";" .. nvim_config_path .. "/?.lua"
 
 require("vim.base")
 require("vim.plugins.registry")
