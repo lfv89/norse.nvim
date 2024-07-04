@@ -1,8 +1,7 @@
-## norse.nvim
+## Norse.nvim
 
-A modern neovim configuration written in Lua, starring the beautiful
-[Nord Theme](https://www.nordtheme.com/) color scheme and backed by multiple cutting edge plugins
-such as Mason, Telescope, Treesitter, along with formatting, completion and language server protocol support.
+A modern Neovim configuration written in Lua, starring the beautiful
+[Nord Theme](https://www.nordtheme.com/) color scheme. Backed by multiple cutting edge plugins such as Mason, Telescope, Treesitter, along with formatting, completion and language server protocol support.
 
 ![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/nvim.jpg?raw=true)
 
@@ -10,7 +9,7 @@ such as Mason, Telescope, Treesitter, along with formatting, completion and lang
 
 ![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/nvim3.jpg?raw=true)
 
-![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/go1.jpg?raw=true)
+![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/go2.jpg?raw=true)
 
 ## Usage
 
