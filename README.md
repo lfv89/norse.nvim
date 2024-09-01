@@ -7,8 +7,6 @@ A modern Neovim configuration written in Lua, starring the beautiful
 
 ![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/nvim2.jpg?raw=true)
 
-![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/nvim3.jpg?raw=true)
-
 ![norse.nvim](https://github.com/lfv89/norse.nvim/blob/master/assets/go2.jpg?raw=true)
 
 ## Usage
