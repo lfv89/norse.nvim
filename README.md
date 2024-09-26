@@ -1,4 +1,4 @@
-## Norse.nvim
+## norse.nvim
 
 A modern Neovim configuration written in Lua, starring the beautiful
 [Nord Theme](https://www.nordtheme.com/) color scheme. Backed by multiple cutting edge plugins such as Mason, Telescope, Treesitter, along with formatting, completion and language server protocol support.
